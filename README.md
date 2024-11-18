@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web and app development projects to gain practical experience.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatinagarwal001/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I developed an enhanced calculator as my first project!
 
 <!---
 jatin-agarwal-01/jatin-agarwal-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
