@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatin-agarwal-01
-- 👀 I’m interested in web development, app development, and cybersecurity.
+- 👀 I’m interested in Web development, Mobile development.
 - 🌱 I’m currently learning and enhancing my skills in Java and looking for guidance to start new projects.
 - 💞️ I’m looking to collaborate on web and app development projects to gain practical experience.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jatinagarwal001/)
