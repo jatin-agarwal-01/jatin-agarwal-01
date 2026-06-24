@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main    # re-generates snake on every push
+      - main          # re-generates snake on every push
 
 jobs:
   generate:
