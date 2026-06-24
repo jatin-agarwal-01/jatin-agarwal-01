@@ -170,9 +170,9 @@ class JatinAgarwal:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🏫  B.Tech (Computer Science / Engineering)                │
+│      B.Tech (Computer Science)                              │
 │      2nd Year  |  Expected Graduation: 2028                 │
-│      India 🇮🇳                                              │
+│      India                                                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
