@@ -34,7 +34,7 @@ class JatinAgarwal:
     def __init__(self):
         self.name        = "Jatin Agarwal"
         self.role        = "Full Stack & Agentic AI Developer"
-        self.education   = "B.Tech | 2nd Year (Graduating 2028)"
+        self.education   = "B.Tech | 3rd Year | 5th Semester (Expected graduation: 2028)"
         self.email       = "jatinagarwal825@gmail.com"
         self.location    = "India 🇮🇳"
 
@@ -171,7 +171,8 @@ class JatinAgarwal:
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │      B.Tech (Computer Science)                              │
-│      2nd Year  |  Expected Graduation: 2028                 │
+│      3rd Year | 5th Semester                                │
+│      Expected Graduation: 2028                             │
 │      India                                                  │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -281,7 +282,7 @@ class JatinAgarwal:
 </p>
 
 <p align="center">
-  <i>💡 Open to collaborations, internships, and interesting projects! Drop a mail or connect on LinkedIn.</i>
+  <i>I am seeking paid internships, prioritizing opportunities with a pre-placement offer (PPO). Remote work is my first preference, followed by hybrid work. Contact me by email or LinkedIn.</i>
 </p>
 
 ---
